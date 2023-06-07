@@ -49,6 +49,8 @@
 
 ##### ВOn the Behaviors tab, there are collected test cases, which describe the steps. Attachments are implemented for api methods. For combined tests, at the end of the test, a screenshot is taken and a video recording of the test is saved.
 
+https://selenoid.autotests.cloud/video/794edc197b85c4d3afbe706548a06a78.mp4
+
 
 ##### Video of the test Removing goods from the cart, adding is done by api, deleting through ui.
 

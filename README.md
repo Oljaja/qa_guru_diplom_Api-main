@@ -49,10 +49,12 @@
 
 ##### ВOn the Behaviors tab, there are collected test cases, which describe the steps. Attachments are implemented for api methods. For combined tests, at the end of the test, a screenshot is taken and a video recording of the test is saved.
 
-https://selenoid.autotests.cloud/video/794edc197b85c4d3afbe706548a06a78.mp4
+
 
 
 ##### Video of the test Removing goods from the cart, adding is done by api, deleting through ui.
+
+(https://selenoid.autotests.cloud/video/b5a4c384eb2c7e18382eaebf668cf07b.mp4)
 
 
 ### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"> 

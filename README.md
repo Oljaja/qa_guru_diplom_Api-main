@@ -53,7 +53,7 @@
 
 ##### ВOn the Behaviors tab, there are collected test cases, which describe the steps. Attachments are implemented for api methods. For combined tests, at the end of the test, a screenshot is taken and a video recording of the test is saved.
 
-![Behaviors](images/allure2.jpg)
+![Behaviors](images/allure%20api.png)
 
 
 ##### Video of the test Removing goods from the cart, adding is done by api, deleting through ui.
@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 
-![Graf](images/teastOP.jpg)
+![Graf](images/testops.png)
 
 #### In the suites tab, we can:
 - Manage all test cases or each separately

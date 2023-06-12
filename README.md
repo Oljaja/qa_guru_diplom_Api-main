@@ -42,25 +42,30 @@
 ### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> 
 ##### Clicking on "Build Now" will start building the tests and running them on the Jenkins server.
 
+![Jenkins_run](images/jenkins%20api.png)
+
 
 ### <img width="3%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"> Allure report
 ##### After passing the tests, the results can be viewed in the Allure report.
 
+![Overview](images/allure%20report.png)
+
 
 ##### ВOn the Behaviors tab, there are collected test cases, which describe the steps. Attachments are implemented for api methods. For combined tests, at the end of the test, a screenshot is taken and a video recording of the test is saved.
 
-
+![Behaviors](images/allure2.jpg)
 
 
 ##### Video of the test Removing goods from the cart, adding is done by api, deleting through ui.
 
-(https://selenoid.autotests.cloud/video/b5a4c384eb2c7e18382eaebf668cf07b.mp4)
+https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-a074-fb8456706c94.mp4
 
 
 ### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"> 
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 
+![Graf](images/teastOP.jpg)
 
 #### In the suites tab, we can:
 - Manage all test cases or each separately
@@ -68,10 +73,10 @@
 - Set up integration with Jira
 - Add manual tests, etc.
 
-
+![tests](images/testops.png)
 
 ### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg">
 ##### By setting up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
-
+![Jira](images/jira%20api.png)
 

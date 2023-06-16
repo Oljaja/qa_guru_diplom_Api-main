@@ -39,7 +39,7 @@
 </details>
 <br>
 
-### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> 
+### <img width="3%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"> [Running a project in Jenkins](https://jenkins.autotests.cloud/job/Students/job/Oljaja_diplom_api-main/)
 ##### Clicking on "Build Now" will start building the tests and running them on the Jenkins server.
 
 ![Jenkins_run](images/jenkins%20api.png)
@@ -61,7 +61,7 @@
 https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-a074-fb8456706c94.mp4
 
 
-### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"> 
+### <img width="3%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit">  [Integration with Allure TestOps](https://allure.autotests.cloud/project/3331/dashboards)
 
 ##### Also, all reporting is saved in Allure TestOps, where similar graphs are built.
 
@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/87572795/228053887-4dfc4ce6-4ea3-478f-
 
 ![tests](images/testops.png)
 
-### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg">
+### <img width="3%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"> [Jira integration](https://jira.autotests.cloud/browse/HOMEWORK-751)
 ##### By setting up integration with Jira through Allure TestOps, you can forward the result of passing tests and a list of test cases from Allure to a ticket
 
 ![Jira](images/jira%20api.png)
